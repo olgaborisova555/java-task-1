@@ -18,3 +18,7 @@
 Тестирование производилось в следующем окружении:
 * Win 7, x-64
 * версия OpenJDK Java 11.0.8
+
+Скриншот
+
+![](https://github.com/olgaborisova555/java-task-1/img/java-task-1.jpg)
